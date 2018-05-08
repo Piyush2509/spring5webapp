@@ -11,6 +11,11 @@ import javax.persistence.JoinColumn;
 import javax.persistence.JoinTable;
 import javax.persistence.ManyToMany;
 
+/**
+ * 
+ * @author piyush.b.kumar
+ *
+ */
 @Entity
 public class Book {
 
